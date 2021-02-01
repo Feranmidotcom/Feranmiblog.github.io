@@ -6,8 +6,11 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Kehinde Ridwan Oluwaferanmi. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Honesty
+- Creativity
+- Loyalty
+- Passion
+- Cooperation
 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I’m trying to get beyond what undergrad CS taught me, to something richer and more powerful–an outlook on what computing represents, one that has been lost within the field, but exists in the computing luminaries who are still alive (as of this writing), and in the documentation and artifacts they created. 
